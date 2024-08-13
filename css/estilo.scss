@@ -216,6 +216,7 @@ footer#rodape p {
     div#interface {
         width: 100%;
         padding: 10px 40px;
+        box-sizing: border-box;
 
         #cabecalho {
             background-position: bottom;
